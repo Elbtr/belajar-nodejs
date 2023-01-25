@@ -1,0 +1,22 @@
+{
+  "name": "bagian1",
+  "version": "1.0.0",
+  "description": "Belajar nodejs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ls",
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HASAEL",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "app.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "nodemon": "^2.0.20",
+    "validator": "^13.7.0"
+  }
+}
